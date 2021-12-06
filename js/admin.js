@@ -165,3 +165,5 @@ window.borrarProducto = function (codigo){
         'success'
       )
 }
+
+/* Hola */
